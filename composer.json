@@ -1,0 +1,25 @@
+{
+    "name": "rubensdimas/database-manager",
+    "description": "A simple library for managing database connections with singleton design pattern, results pagination and building queries in PHP.",
+    "type": "library",
+    "require": {
+        "php": ">=7.0"
+    },
+    "license": "GPL-3.0-or-later",
+    "autoload": {
+        "psr-4": {
+            "RubensDimas\\DatabaseManager\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "William Costa",
+            "email": "canalwdev@gmail.com"
+        },
+        {
+            "name": "Rubens Dimas Jr",
+            "email": "rubens.jr107@gmail.com"
+        }
+        
+    ]
+}

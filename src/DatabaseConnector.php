@@ -1,6 +1,6 @@
 <?php
 
-namespace RubensDimas\DatabaseManager;
+namespace Rubensdimas\DatabaseManager;
 
 use \PDO;
 use \PDOException;
